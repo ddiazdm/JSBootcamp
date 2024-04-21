@@ -30,3 +30,8 @@
 
 ![subo](/subo.png)
 
+## Merge
+
+-    Hago merge
+
+![merge](/merge.png)
